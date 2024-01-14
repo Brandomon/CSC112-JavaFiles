@@ -1,0 +1,41 @@
+<HTML>
+
+<Head>
+
+<Title>  Fred's Home Page     </Title>
+
+</Head>
+
+<Body bgcolor = "white">
+
+<Center>
+
+<H1>
+
+<Font Color = "aqua"> <b> Fred's Home Page </b> </Font> 
+
+</H1>
+
+<p> <H2>  Hi!  My name is Fred, and this web site is all about me!  </H2> </p>
+
+
+</Center>
+
+<HR Align = Center>
+
+<br>  <br>  <br>
+
+<p>  <H> Here are some things I want to share:  </H3> </p>
+
+
+<br>
+<br>My Hobbies
+<br>My Pets
+
+<p> <H2><Font Color = "White"><b>Here is a picture I like! </b> </Font></H2> </p> 
+
+<IMG Src = "bfly1.gif" align = left >  
+
+ 
+</Body>
+</HTML>

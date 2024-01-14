@@ -1,0 +1,9 @@
+German Shepherd,Laszlo,3
+Bulldog,Sir Reginald,5
+Poodle,Princess,6
+Labrador Retriever,Max,4
+Golden Retriever,Sandy,4
+Siberian Husky,Ruah,3
+Chihuahua,Taco,4
+Rottweiler,Freya,7
+Chow Chow,Mr. Poof,4
